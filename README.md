@@ -451,7 +451,7 @@ Following are the search key attributes for index tables of different tables bas
 
 **MAIN WEBSITE**
 
-<a href="https://suitor.cleverapps.io/" target="_blank"><img src="images/suitorimage.jpg"></a>
+<a href="https://suitor-webapp.herokuapp.com/" target="_blank"><img src="images/suitorimage.jpg"></a>
 
 **WEBSITE BACKEND**
 
